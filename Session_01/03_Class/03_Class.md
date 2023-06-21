@@ -1,6 +1,6 @@
 [🔙 << Class 2](../02_Class/02_Class.md) | [Class 4 >>](../04_Class/04_Class.md)
 
-[🔙 Back](../README.md)
+[🔙 Back](../../README.md)
 
 
 # Setting up a Developer Account

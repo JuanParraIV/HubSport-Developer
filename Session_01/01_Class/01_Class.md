@@ -1,6 +1,6 @@
 # Important Initial Questions
 
-[🔙 Back](../README.md)
+[🔙 Back](../../README.md)
 
 - **What problem does the app solve?**
   - The app solves the problem of streamlining and automating lead generation and customer relationship management processes within the HubSpot platform. It aims to improve efficiency and enhance the overall marketing and sales efforts of businesses.
@@ -25,4 +25,4 @@
 - **What technical skills exist on your team?**
   - The technical skills existing on the team may include proficiency in web development languages such as HTML, CSS, JavaScript, and experience with backend technologies like Node.js or Python. It is important to assess the team's skills and identify any gaps that may need to be filled through hiring or upskilling efforts.
 
-[<< Back ](../README.md) | [Next: Class 2 >>](../02_Class/02_Class.md)
+[<< Back ](../../README.md) | [Next: Class 2 >>](../02_Class/02_Class.md)
