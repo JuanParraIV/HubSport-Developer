@@ -28,12 +28,10 @@ Let's get studying!
 |   3   | [Building HubSpot CMS Templates](./Lesson_03/03.md) |
 |   4   | [Building HubSpot CMS Modules](./Lesson_04/04.md) |
 |   5   | [Building HubSpot CMS Themes](./Lesson_05/05.md) |
+|   6   | [Blog, Email, and System Templates in the HubSpot CMS](./Lesson_06/06.md) |
+|   7   | [Other Data Sources: Using HubDB and Custom Objects in CMS Hub](./Lesson_07/07.md) |
 
 
-## Session 02
-## What we're Discussing
-<img src="./Session_02/assets/WhatWereDiscuss.png" alt="Difference" width="800" height="">
 
-## What you need to get Started
-<img src="./Session_02/assets/WhatUNeed.png" alt="Difference" width="800" height="">
+
 
